@@ -1,0 +1,162 @@
+body {
+	font-family: 'Fjalla One', sans-serif;
+}
+body {
+	background-image: url(image/fond.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+h1 {
+	font-family: 'Permanent Marker';
+	color: white;
+}
+
+h2 {
+	color: white;
+}
+.presentation {
+	
+	border-radius: 8px;
+	text-align: center;
+	margin: 0 auto;
+
+}
+
+.bouton{
+		height: 140px
+		width: 140px
+		margin: 0 auto;
+		text-align: center;
+		zoom: 150%;
+
+}
+/*.bouton:hover{
+*/		background-size: 100px;
+		/*back*/
+}
+
+.legif {
+	margin-left: 30px;
+}
+
+.i_like {
+	background-color: black;
+	width: 40%;
+	border-radius: 8px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.container { 
+	display: flex; 
+	flex-direction: row; 
+	justify-content: space-around;
+
+}
+
+
+/*.pujadas1{
+	background-image: url(image/david.jpg);	
+	border-radius: 8px;
+	text-align: center;
+	margin-left: 20px
+	margin-top: 40px;
+	height: 350px;
+	width: 300px;
+}
+*/
+
+.pujadas1 {
+
+	background-image: url(image/david.jpg);
+	height: 350px;
+	width: 360px;
+	display: block;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat
+
+}
+
+
+.pujadas2{
+	background-image: url(image/mYF8qW.gif);	
+	height: 350px;
+	width: 520px;
+	display: block;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat
+}
+
+.pujadas3{
+	background-image: url(image/david_de_gauche.jpg);	
+	height: 350px;
+	width: 360px;
+	display: block;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat
+
+}
+
+
+.container2 { 
+	display: flex; 
+	flex-direction: row; 
+	justify-content: space-around;
+
+}
+
+
+.sangoku{
+	background-image: url(image/sangoku.gif);	
+	height: 400px;
+	width: 360px;
+	display: block;
+	background-size: 80%;
+	background-position: center;
+	background-repeat: no-repeat
+}
+
+
+.sangodas{
+	background-image: url(image/sangodas.gif);	
+	height: 400px;
+	width: 500px;
+	display: block;
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat
+}
+
+.sangokoux{
+	background-image: url(image/sangoku.gif);	
+	height: 400px;
+	width: 360px;
+	display: block;
+	background-size: 80%;
+	background-position: center;
+	background-repeat: no-repeat;
+	transform: scale(-1, 1);
+}
+
+.audio {
+	zoom: 50%;
+	text-align: center;
+	margin: 0 auto;
+}
+.question{
+		margin: 0 auto;
+		text-align: center;
+
+}
+
+.video {
+	width: 95%;
+	margin: 0 auto;
+}
+
+
+
